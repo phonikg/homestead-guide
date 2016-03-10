@@ -131,11 +131,11 @@ What should I install on my SBC?
 
 You have some choice here depending on your skill level, and what you are looking to do.
 
-* Download a fully prepared image(link to page with detailed download & install instructions)
+* Download a fully prepared image(link to page with detailed download & install instructions for ethembedded image files))
 
   * If you are new to Ethereum AND SBC boards such as the Raspberry Pi then this is for you! Simply download the image specific to the dev board you are working with, burn it to an SD card, boot your device, and run Ethereum!
   
-* Download a pre-compiled application(link to page with detailed download & install instructions)
+* Download a pre-compiled application(link to page with detailed download & install instructions for Doublethink.co binaries)
 
   * If you already have an SBC running and have a specific, preferred OS or setup that you want to keep, then this is your best option! Depending on the platform, you can simply download the apropriate executable, and with minimal linking of libraries and setting of PATH you can have Ethereum running in your existing environment!
   
